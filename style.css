@@ -2,3 +2,17 @@ body{
     background-color: black;
     color:aqua;
 }
+
+#sidenav{
+    min-height: 100%;
+    position: fixed;
+    z-index: 999;
+    background-size: 100%;
+  }
+
+  #twitterfeed{
+    min-height: 100%;
+    position: fixed;
+    z-index: 999;
+    background-size: 100%;
+  }
